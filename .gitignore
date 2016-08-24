@@ -1,0 +1,16 @@
+*.cof
+*.hex
+*.obj
+*.elf
+*.conf
+*.o
+*.bin
+*.lst
+*.map
+*.srec
+*.lss
+Release/*
+Debug/*
+.settings/*
+.cproject
+.project
